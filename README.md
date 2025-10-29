@@ -1,6 +1,5 @@
 # Simple Inventory API (Flask)
 # Author: Hiruni Lanka
-# Software Engineering Student – The Open University of Sri Lanka
 # Description: A lightweight RESTful API to manage inventory items using in-memory storage.
 # ---------------------------------------------------------------
 
